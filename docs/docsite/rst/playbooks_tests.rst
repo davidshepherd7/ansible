@@ -83,7 +83,7 @@ be used.  The default is ``False``, but this setting as ``True`` uses more stric
 
 .. _math_tests:
 
-Group theory tests
+Set inclusion tests
 ``````````````````
 
 .. versionadded:: 2.1
